@@ -5,11 +5,14 @@ Make sure to delete package-lock.json file.
 
 ## Available Scripts
 
+The node_modules folder has been removed from the reposirtory for efficiency purposes.
 In the project directory, you can run:
 
 ### `cd`
 ### `yarn install`
 ### `npm start`
+
+The project should start to run on your default browser.
 
 ## More
 

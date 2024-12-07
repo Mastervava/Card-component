@@ -1,0 +1,100 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .card {
+    width: 323px;
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #1e1e1e27;
+    border-width: 2px;
+    border-radius: 20px;
+    padding-bottom:5px;
+    margin:10px;
+  }
+  
+  .img-container{
+    position: relative;
+    width: 50%;
+  }
+
+  .img{
+    width: 323px;
+  }
+  
+  .location-img{
+    width: 320px;
+    height: 245px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+  }
+  
+ .heart-symbol{
+    position: absolute;
+    top: 10%;
+    left: 180%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    cursor: pointer;
+    color:#B80C09;
+  } 
+  
+  .share-symbol{
+    position: absolute;
+    bottom: 0%;
+    left: 180%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    cursor: pointer;
+    color: #B80C09;
+  }
+  
+  
+  .card-header{
+    display: flex;
+    justify-content: start;
+    vertical-align:middle;
+    align-items: center;
+    background-color: #ffffff00;
+    border-bottom: none;
+    margin-bottom: none;
+    margin-top: none;
+    padding-top: 0px;
+  }
+  
+  
+  .company-logo{
+    width: 35px;
+    height: 35px;
+    margin: 0px;
+    margin-top: 10px;
+  }
+  
+  
+  .descriptions{
+    margin-left: 18px;
+    margin-right: 10px;
+  }
+  
+  .description-sub-div{
+    display: flex;
+    vertical-align: middle;
+    align-items: center;
+  }
+  
+  .description-text{
+    background-color: #80808059;
+    display: flex;
+  }
+
+
+  
+  .buttons-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+    margin-top: 5px;
+  }
+  
+

@@ -14,5 +14,5 @@ In the project directory, you can run:
 ## More
 
 Additionally, the code uses MUI Icons.
-If the code does not run use ### `yarn add @mui/icons-material @mui/material @emotion/styled @emotion/react` 
+If the code does not run use ###`yarn add @mui/icons-material @mui/material @emotion/styled @emotion/react` 
 

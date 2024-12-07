@@ -1,11 +1,14 @@
 # Getting Started 
 
+This is a simple reusable Card Component for react aplications.
+The following file will be an instruction on how to install dependencies and other requirements.
+
+## Installation
+
 Download the Zip version of the code and extract it.
 Make sure to delete package-lock.json file.
-
-## Available Scripts
-
 The node_modules folder has been removed from the reposirtory for efficiency purposes.
+
 In the project directory, you can run:
 
 ### `cd`
